@@ -1,11 +1,11 @@
-package com.generation.blogPessoalMatheus.repository;
+package com.generation.blogPessoalLorrans.repository;
 
 import java.util.Optional;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.generation.blogPessoalMatheus.model.Usuario;
+import com.generation.blogPessoalLorrans.model.Usuario;
 
 @Repository
 public interface UsuarioRepository extends JpaRepository<Usuario, Long>{
