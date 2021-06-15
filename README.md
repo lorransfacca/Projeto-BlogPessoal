@@ -1,2 +1,0 @@
-# blogPessoalLorrans
- blogPessoal
